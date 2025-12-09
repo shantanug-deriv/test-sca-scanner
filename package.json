@@ -13,6 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fcogvspgigatanzcydfyvgtjhvxibyau": "1.0.21"
+    "fcogvspgigatanzcydfyvgtjhvxibyau": "1.0.21",
+    "syntax-async-functions": "9.9.0",
+    "@salesforce/plugin-telemetry": "3.6.35",
+    "@react-native-community/hooks": "^100.0.1"
   }
 }

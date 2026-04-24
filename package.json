@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fcogvspgigatanzcydfyvgtjhvxibyau": "1.0.21"
+    "fcogvspgigatanzcydfyvgtjhvxibyau": "1.0.21",
+    "@radiv-ui/react-dialog": "1.1.4"
   }
 }
